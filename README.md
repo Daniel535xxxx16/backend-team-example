@@ -1,5 +1,5 @@
 # backend-team-example
 
-Justin Benedict
-Fery Jun - 535240155
-Daniel Raharja 535240016
+Justin Benedikt - 535240137
+Fery :) Jun - 535240155
+Daniel :) Raharja 535240016
